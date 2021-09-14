@@ -1,8 +1,8 @@
-# LibOpenJTalk4py
+# libopenjtalkpy
 
 Yet another LibOpenJTalk Python wrapper library
 
-## LibOpenJTalk4py とは
+## libopenjtalkpy とは
 
 OpenJTalkの非公式フォークの [LibOpenJTalk](https://github.com/yamachu/LibOpenJTalk) のラッパーライブラリ。
 開発途中
