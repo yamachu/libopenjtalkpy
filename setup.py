@@ -24,6 +24,7 @@ class LibraryDownloader(install):
     _LIBRARY_NAME = {
         'mac_32': ('libopenjtalk.dylib', 'libopenjtalk.dylib'),
         'mac_64': ('libopenjtalk.dylib', 'libopenjtalk.dylib'),
+        # 全部32bitにしておいた方がバンドルされた時に動かないとかなくていいのかもしれない
         'linux_32': ('libopenjtalk.so', 'libopenjtalk.so'),
         'linux_64': ('libopenjtalk.so', 'libopenjtalk.so'),
         'win_32': ('x86_open_jtalk.dll', 'libopenjtalk_32.dll'),
